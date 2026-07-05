@@ -52,4 +52,4 @@ PET-GAME/
 
 ## Contexto acadêmico
 
-Projeto desenvolvido com fins didáticos, relacionado à disciplina de Circuitos Digitais e feito no projeto PET (Programa de Educação Tutorial) Computação.
+Projeto desenvolvido com fins didáticos, relacionado à disciplina de Circuitos Digitais e feito no programa PET (Programa de Educação Tutorial) Computação.
