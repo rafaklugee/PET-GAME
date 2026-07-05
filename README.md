@@ -4,7 +4,7 @@ Jogo 8-bit educativo sobre circuitos digitais, criado para ensinar de forma inte
 
 <!-- 📸 Substitua o link abaixo por uma imagem ou GIF mostrando a aplicação em uso -->
 <p align="center">
-  <img src="./maps/game-print.jpg" alt="Demonstração do PET-GAME" width="800">
+  <img src="./maps/print-game.png" alt="Demonstração do PET-GAME" width="800">
 </p>
 
 ## Sobre o projeto
